@@ -29,3 +29,11 @@ def crear_ventana():
 
 if __name__ == "__main__":
     crear_ventana()
+
+
+# Agregarn Funcionalidad 1
+
+
+# Agregar Funcionalidad 2
+
+# Agregar Funcionalidad 3 
