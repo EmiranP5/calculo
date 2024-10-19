@@ -75,7 +75,7 @@ def crear_ventana():
     boton_3 = tk.Button(ventana, text="Opción 3", command=opcion_3)
     boton_3.pack(pady=10)
 
-    # Ejecutar la ventana principal
+    # Ejecutar la ventana principall
     ventana.mainloop()
 
 if __name__ == "__main__":
